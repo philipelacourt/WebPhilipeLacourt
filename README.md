@@ -1,4 +1,4 @@
-Initio - Free, multipurpose html5 template
+Plantilla: Initio - Free, multipurpose html5 template
 =============
 
 Initio is a fully featured html5 theme which will help you create a stylish personal or company site. 
