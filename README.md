@@ -1,7 +1,9 @@
 Mi página web/Portafolio
 =============
 Presentación con detalles acerca de mi trayectoria laboral y otros detalles importantes
+
 El portafolio es el primer proyecto que he realizado de manera organizada
+
 Plantilla hecha por Sergey Pozhilov (GetTemplate.com)
 
 Versión actual: 1.0.0
